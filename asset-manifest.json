@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TeraWeb/static/css/main.df0c1e27.chunk.css",
+    "main.js": "/TeraWeb/static/js/main.1a0e18f4.chunk.js",
+    "main.js.map": "/TeraWeb/static/js/main.1a0e18f4.chunk.js.map",
+    "runtime-main.js": "/TeraWeb/static/js/runtime-main.c67c5526.js",
+    "runtime-main.js.map": "/TeraWeb/static/js/runtime-main.c67c5526.js.map",
+    "static/js/2.0862e3f1.chunk.js": "/TeraWeb/static/js/2.0862e3f1.chunk.js",
+    "static/js/2.0862e3f1.chunk.js.map": "/TeraWeb/static/js/2.0862e3f1.chunk.js.map",
+    "index.html": "/TeraWeb/index.html",
+    "precache-manifest.ed668f383d2c5c9240cb555fa4f42078.js": "/TeraWeb/precache-manifest.ed668f383d2c5c9240cb555fa4f42078.js",
+    "service-worker.js": "/TeraWeb/service-worker.js",
+    "static/css/main.df0c1e27.chunk.css.map": "/TeraWeb/static/css/main.df0c1e27.chunk.css.map",
+    "static/js/2.0862e3f1.chunk.js.LICENSE": "/TeraWeb/static/js/2.0862e3f1.chunk.js.LICENSE",
+    "static/media/App.css": "/TeraWeb/static/media/estrellas.c072fdb1.svg",
+    "static/media/index.css": "/TeraWeb/static/media/fondo.3fb2298c.jpg",
+    "static/media/miembros.css": "/TeraWeb/static/media/paper.5622bedc.jpg",
+    "static/media/userDefect.png": "/TeraWeb/static/media/userDefect.763b4716.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67c5526.js",
+    "static/js/2.0862e3f1.chunk.js",
+    "static/css/main.df0c1e27.chunk.css",
+    "static/js/main.1a0e18f4.chunk.js"
+  ]
+}
